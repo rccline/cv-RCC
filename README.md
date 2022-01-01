@@ -2,7 +2,7 @@
 
 ### The CV of Robert C Cline, Sr.  
 
-This resume has been created following the introduction to the *Data Driven CV* presented by Bryan Jenks' *Free Code Camp* on Apri1 22, 2021.
+This resume has been created following the introduction to the *Data Driven CV* presented by Bryan Jenks' *Free Code Camp* on April 22, 2021.
 * The CV is compiled using Bryan's instruction on using the R *{vitae}* package.
 
 * Click here for Bryan Jenks' YouTube presentation [Free Code Camp Talk: Making A Data Driven CV With RMarkdown](https://www.youtube.com/watch?v=cMlRAiQUdD8&t=76s).  
