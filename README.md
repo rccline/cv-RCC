@@ -7,7 +7,7 @@ This resume has been created following the introduction to the *Data Driven CV* 
 
 * Click here for Bryan Jenks' YouTube presentation [Free Code Camp Talk: Making A Data Driven CV With RMarkdown](https://www.youtube.com/watch?v=cMlRAiQUdD8&t=76s).  
 
-* Click here for the introduction  vignette for [the *{vitae}* package](https://cran.r-project.org/web/packages/vitae/vignettes/vitae.html)
+* Click here for the introduction  vignette for the [*{vitae}* package](https://cran.r-project.org/web/packages/vitae/vignettes/vitae.html)
 
 * Bryan Jenks is a prolific content publisher on youtube, github and elsewhere.  
 
@@ -16,7 +16,7 @@ This resume has been created following the introduction to the *Data Driven CV* 
 * I am grateful for Bryan's many pubication and his many contributions to data science education.  
 
 
-### The following is from Bryan Jenks' Readme. 
+### The following is from Bryan Jenks' Readme:   
 * [Click here for Bryan Jenks github content.](https://github.com/BryanJenksCommunity/Talks.git) 
 
 # Data Driven CV
