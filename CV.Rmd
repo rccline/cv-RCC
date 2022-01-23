@@ -11,7 +11,7 @@ linkedin: robertccline
 orcid:  0000-0003-4758-3111
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 990000
-aboutme: "I am an AAPL Certified Professional Landman and I specialize in large scale project management employing technological skills to automate workflow for title analysis, reporting and GIS mapping. The coding and analytical skills are directly transferable to other industries."
+aboutme: "AAPL Certified Professional Landman, with a work history managing land activities for leasehold, fee, contractual interests, title curative, drafting and negotiating agreements. History of supervisory work managing teams, negotiators, performing due diligence, A&D, employing technological skills to automate workflow for title analysis, reporting and GIS mapping. I have coding and analytical skills which are directly transferable to other industries."
 docname: CV
 output: vitae::awesomecv
 ---
